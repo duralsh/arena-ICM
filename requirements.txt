@@ -1,0 +1,6 @@
+# For web version (app.py)
+streamlit>=1.28.0
+
+# tkinter is included with Python standard library (for desktop version - run.py)
+# No additional packages required for desktop version
+
